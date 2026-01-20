@@ -11,6 +11,9 @@ https://flourish.studio/
 ### Visualisierung mit DataWrapper
 https://www.datawrapper.de/
 
+## Den richtigen Graphen finden
+https://datavizproject.com/
+
 ## Grafikdesign
 
 ### Kostenfreies, online Vektordesign
