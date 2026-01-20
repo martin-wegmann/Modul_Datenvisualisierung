@@ -20,6 +20,15 @@ https://www.reddit.com/r/dataisbeautiful/
 ### Forum für "unschöne" Datenvisualisierungen
 https://www.reddit.com/r/dataisugly/
 
+### Bücher von David McCandless
+https://informationisbeautiful.net/books/
+
+### Weitere Autoren 
+* Jaime Serra
+* Camille Juzeau
+* Federica Fragapane
+* Stefanie Posavec
+
 ## Grafikdesign
 
 ### Kostenfreies, online Vektordesign
@@ -39,3 +48,17 @@ https://coolors.co/
 
 ### Farbpaletten B
 https://colorhunt.co/
+
+### Farbpaletten C
+https://venngage.com/tools/accessible-color-palette-generator
+
+## Ich brauche mehr Daten!
+
+### Our World In Data
+https://ourworldindata.org/
+
+### KNMI Climate Explorer
+https://climexp.knmi.nl/start.cgi
+
+### ZENODO 
+https://zenodo.org/
