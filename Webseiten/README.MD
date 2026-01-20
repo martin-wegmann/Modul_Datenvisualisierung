@@ -11,8 +11,14 @@ https://flourish.studio/
 ### Visualisierung mit DataWrapper
 https://www.datawrapper.de/
 
-## Den richtigen Graphen finden
+### Den richtigen Graphen finden
 https://datavizproject.com/
+
+### Forum für "schöne" Datenvisualisierungen
+https://www.reddit.com/r/dataisbeautiful/
+
+### Forum für "unschöne" Datenvisualisierungen
+https://www.reddit.com/r/dataisugly/
 
 ## Grafikdesign
 
@@ -27,3 +33,9 @@ https://pdimagearchive.org/
 
 ### Kostenfreie Icons
 https://thenounproject.com/
+
+### Farbpaletten A
+https://coolors.co/
+
+### Farbpaletten B
+https://colorhunt.co/
