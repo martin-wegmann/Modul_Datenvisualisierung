@@ -7,4 +7,6 @@ Martin Wegmann
 ## Kontakt
 martin.wegmann2@unibe.ch
 
+## Shortlink
 https://tinyurl.com/datvisMAS
+
