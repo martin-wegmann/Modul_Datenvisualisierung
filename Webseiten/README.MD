@@ -65,3 +65,6 @@ https://climexp.knmi.nl/start.cgi
 
 ### ZENODO 
 https://zenodo.org/
+
+## CSV Bearbeitung
+https://edit-csv.net/
